@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(chap09-repetitive statement.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  chap09-break_continue.c
+C:\Workspace\lern-in\lern_in\chap09-break_cotinue\chap09-break_continue.c(34): warning C4716: 'multiply': 값을 반환해야 합니다.
+  chap09-repetitive statement.vcxproj -> C:\Workspace\lern-in\lern_in\Debug\chap09-for.exe

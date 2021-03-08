@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(chap08-control statement.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  chap08-if_else.c
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(81,38): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(81,33): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(81,28): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(82,43): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(82,38): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(82,33): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(83,43): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(83,38): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(83,33): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(84,43): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(84,38): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(84,33): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(85,43): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(85,38): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(85,33): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(86,25): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(86,20): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(86,15): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(106,21): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(106,16): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(106,11): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(109,21): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(109,16): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(109,11): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(112,21): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(112,16): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(112,11): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(115,21): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(115,16): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(115,11): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(118,21): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(118,16): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(118,11): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(122,21): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(122,16): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Workspace\lern-in\lern_in\chap08-control statement\chap08-if_else.c(122,11): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.

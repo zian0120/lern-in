@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(chap12-array.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  chap12-array.c
+C:\Workspace\lern-in\lern_in\chap12-array\chap12-array.c(19): warning C4716: 'sum_array': 값을 반환해야 합니다.
+C:\Workspace\lern-in\lern_in\chap12-array\chap12-array.c(65): warning C4716: 'name': 값을 반환해야 합니다.
+  chap12-array.vcxproj -> C:\Workspace\lern-in\lern_in\Debug\chap12-array(배열).exe
